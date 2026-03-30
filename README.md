@@ -53,15 +53,13 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 
 ### 📝 Assignment 1: Personal Essay
 
-🔗 Link: *(ใส่ลิงก์จริง)*
+🔗 Link:[Assignment 1](https://docs.google.com/document/d/1sNhmyDTZ_xA3vi8ZEAsm1jAWmmjc3_euk3RgJ5G9Zmg/edit?usp=sharing)
 
 ---
 
 ### 🌍 Assignment 2: Network Topologies
 
-🔗 Link: *(ใส่ลิงก์จริง)*
-
-![Assignment2](Screenshot%202026-03-27%20220238.png)
+🔗 Link:[Assignment 2](https://docs.google.com/document/d/1UdEupC-gJLWBHQQtnam5F95Xkv2QVnWtrQpVvbLygds/edit?usp=sharing)
 
 #### 🔹 Point-to-Point
 
@@ -87,9 +85,8 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 
 ### 🔧 Assignment 3
 
-🔗 Link: *(ใส่ลิงก์จริง)*
+🔗 Link:[Assignment 3](https://drive.google.com/file/d/1E-vvnxMtr4sbrj1ZSgfeW38e9hrhyj34/view)
 
-![Assignment3](Screenshot%202026-03-27%20221206.png)
 
 **Overview:**
 ทดลองการเชื่อมต่อผ่าน Switch และ Router
@@ -103,9 +100,7 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 
 ### 🌐 Assignment 4: TCP & UDP
 
-🔗 Link: *(ใส่ลิงก์จริง)*
-
-![Assignment4](Screenshot%202026-03-27%20230118.png)
+🔗 Link:[Assignment 4](https://docs.google.com/document/d/1kXBol9HC5WtbfWqwC6j7V8C42Beh6fuErNQbbDWCmFk/edit?usp=sharing)
 
 **TCP (Reliable):**
 
@@ -121,9 +116,8 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 
 ### 🔹 Lab 1: Basic Network
 
-🔗 Link: *(ใส่ลิงก์จริง)*
+🔗 Link:[Lab 1](https://docs.google.com/document/d/11k4OGAFt3NUgt-DRzoUeIaqRtW3ZguY-RExw4nCjCNQ/edit?usp=sharing)
 
-![Lab1](Screenshot%202026-03-27%20230248.png)
 
 * ศึกษา ARP, ICMP
 * ทดสอบ ping สำเร็จ
@@ -132,9 +126,8 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 
 ### 🔹 Lab 2: VLAN & Router-on-a-Stick
 
-🔗 Link: *(ใส่ลิงก์จริง)*
+🔗 Link:[Lab 2](https://docs.google.com/document/d/1dMqiBN2k61Y1nLfXnihVHNPONVrl6i2MZSwS6z4F4qY/edit?usp=sharing)
 
-![Lab2](Screenshot%202026-03-27%20230333.png)
 
 * VLAN 10 / 20 / 99
 * ใช้ 802.1Q
@@ -144,9 +137,7 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 
 ### 🔹 Lab 3: MIME & Packet Analysis
 
-🔗 Link: *(ใส่ลิงก์จริง)*
-
-![Lab3](Screenshot%202026-03-27%20230411.png)
+🔗 Link:[Lab 3](https://docs.google.com/document/d/14zPgMoRsEfh0FR6wB3qCvlQg8B4roqL_ugb6Qw2CDko/edit?usp=sharing)
 
 * ใช้ TCP + Wireshark
 * วิเคราะห์ Packet จริง
@@ -155,9 +146,7 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 
 ### 🔹 Lab 4: NAT & Internet Simulation
 
-🔗 Link: *(ใส่ลิงก์จริง)*
-
-![Lab4](Screenshot%202026-03-27%20230447.png)
+🔗 Link:[Lab 4](https://docs.google.com/document/u/0/d/1NJnRJEsZ7ckoM6w7Vkn80CA0OOFWpjfKEOCZHGylDng/edit)
 
 * NAT Overload (PAT)
 * Stateful vs Stateless
@@ -166,9 +155,7 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 
 ### 🔹 Lab 5: WAN & Microservices
 
-🔗 Link: *(ใส่ลิงก์จริง)*
-
-![Lab5](Screenshot%202026-03-27%20230525.png)
+🔗 Link:[Lab 5](https://docs.google.com/document/d/1vEmWyvEqgFgjgXXdpTUDHExy72YxGuNvlBE9xigtt2s/edit?usp=sharing)
 
 * Internet Edge
 * ISP WAN
@@ -195,17 +182,17 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 * รองรับสภาพแวดล้อมซับซ้อน (อวกาศ / ใต้น้ำ / Virtual World)
 * รองรับการสื่อสารระดับอนาคต
 
-🔗 รายละเอียดเพิ่มเติม: *(ใส่ลิงก์)*
+🔗 รายละเอียดเพิ่มเติม:[Link](https://docs.google.com/document/d/10GTCn2C3_dVl86nlCMyPH1Loigb-Wp-rKgcEauF4hz4/edit?usp=sharing)
 
 ---
 
 ## 🎓 Final Project
 
-* 📁 Drive: *(ใส่ลิงก์)*
-* 💻 GitHub: *(ใส่ลิงก์)*
-* 🎥 Video1: *(ใส่ลิงก์)*
-* 🎥 Video2: *(ใส่ลิงก์)*
-* 🤖 NotebookLM: *(ใส่ลิงก์)*
+* 📁 Drive:[Link](https://drive.google.com/drive/folders/1pMTUDmsCbXrMSmXztLz72NXbjaL6pmo5?usp=sharing)
+* 💻 GitHub:[Link](https://github.com/sarochaza/Spacing_NetworkVer1	)
+* 🎥 Video1:[Link](https://youtu.be/Dx_VcjQMkpg)
+* 🎥 Video2:[Link](https://youtu.be/-sHY4TGi8JE)
+* 🤖 NotebookLM:[Link](https://notebooklm.google.com/notebook/7774228d-022b-458f-aaa6-32f92f9b285c)
 
 ---
 
@@ -218,12 +205,6 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 ### 📌 Final Exam
 
 ![Final](image.png)
-
----
-
-## 📬 Contact
-
-👉 https://github.com/pudding0102
 
 ---
 
