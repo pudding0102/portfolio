@@ -45,7 +45,7 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 
 ## 🏆 Certificates & Achievements
 
-![Certificates](Screenshot%202026-03-27%20225513.png)
+![Certificate](Certificates.png)
 
 ---
 
