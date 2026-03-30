@@ -200,11 +200,11 @@ Portfolio นี้แสดงการเรียนรู้ด้าน **C
 
 ### 📌 Checkpoint Exam
 
-![Checkpoint](image.png)
+![Checkpoint Exam](Checkpoint Exam.png)
 
 ### 📌 Final Exam
 
-![Final](image.png)
+![Final Exam](Final Exam.png)
 
 ---
 
